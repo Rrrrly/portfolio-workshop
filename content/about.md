@@ -3,24 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
-# Heading 1
+Hello Hello 🙂 My name is Rylie.
 
-## Heading 2
+I am a student studying a Bachelor of Science in Information Technology at the University of Technology Sydney.
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-
-
-Hi! My name is John Doe.
-
-I am a student studying a Bachelors of Dog Training at the University of Technology Sydney.
-
-I like dogs, dogs, and dogs.
-
-My future dreams and aspirations are to own at least 20 Golden Retrievers.
-
-![Golden Retrievers](../images/golden-retrievers.jpg)
+Two years ago, I was thinking what course to take at university and started developing an interest in technology. I like it a lot! And there are so much more areas that I haven't exposed and am really looking forward to discover more.
